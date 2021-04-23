@@ -2,6 +2,9 @@
 import tensorflow as tf
 from keras.models import Sequential, Input
 from keras.layers import Dense, Flatten, Dropout
+from keras import backend as K
+from keras.layers import Activation
+from keras.utils.generic_utils import get_custom_objects
 import seaborn as sns
 import pandas as pd
 import numpy as np
@@ -11,6 +14,19 @@ import json
 import csv
 import copy
 import os
+import sys
+# import tensorflow.compat.v1 as tfc
+
+
+# def custom_activation(x):
+#     x = K.cast(K.sum(x, axis=None, keepdims=False), dtype=K.floatx())
+#     # sess = tfc.InteractiveSession()
+#     # tfc.print(K.sigmoid(x) * 7)
+#     return (K.sigmoid(x))
+
+
+# get_custom_objects().update(
+#     {'custom_activation': Activation(custom_activation)})
 
 
 all_players = {}
@@ -66,6 +82,8 @@ stadiums = [
     "Vidarbha Cricket Association Stadium, Jamtha",
     "Wankhede Stadium",
     "Wankhede Stadium, Mumbai",
+
+
 ]
 
 # training data = [stadium no , total runs , batsman runs , batsman avg ,
@@ -94,7 +112,7 @@ with open("Matches.csv", encoding="utf-8") as csvf:
             y = []
         t = [0 for k in range(len(stadiums))]
         t[stadiums.index(row["Venue"])] = 1
-        t.append(runs)
+        t.append(runs/200)
         batsman = {}
         bowler = {}
 
@@ -115,7 +133,8 @@ with open("Matches.csv", encoding="utf-8") as csvf:
         # non_striker = all_players['Batsmen'][row['Year']][row['Batting']][row['Non_Striker']]
         bowler = {}
         try:
-            bowler = all_players["Bowlers"][row["Year"]][row["Bowling"]][row["Bowler"]]
+            bowler = all_players["Bowlers"][row["Year"]
+                                            ][row["Bowling"]][row["Bowler"]]
         except Exception as e:
             bowler = {
                 "Inns": "0",
@@ -150,9 +169,9 @@ with open("Matches.csv", encoding="utf-8") as csvf:
         if outcome == "W":
             outcome = 0
 
-        outcome = int(outcome)
-        runs += int(outcome)
-        y.append(runs)
+        outcome = float(outcome)
+        runs += float(outcome)
+        y.append(runs/200)
 
 if len(x) > 0:
     X.append(copy.deepcopy(x))
@@ -166,10 +185,6 @@ if len(x) > 0:
     Output Nodes:
 
         0 , 1, 2, 3, 4, 5, 6
-    
-    if last ball is a no ball , then add 5 runs
-    In t20, in a free hit, a batsman hits it for 6, 60% of time
-    (60*6 + 40*4)/100 ~ 5
 """
 
 train_x = []
@@ -199,15 +214,25 @@ for i in X[5:]:
 for i in Y[5:]:
     train_y.extend(i[:])
 
+# for i in train_y:
+#     print(i)
+
+# for i in train_x:
+#     print(i[43:])
+
+temp = list(zip(train_x, train_y))
+random.shuffle(temp)
+train_x, train_y = zip(*temp)
 
 epochs = 10
 
 model = Sequential()
 
 model.add(Input(shape=(55,)))
+model.add(Dense(64, activation="sigmoid"))
 model.add(Dense(32, activation="sigmoid"))
-model.add(Dense(32, activation="sigmoid"))
-model.add(Dense(1))
+model.add(Dense(1, activation="sigmoid"))
+# model.add(Activation(custom_activation, name='SpecialActivation'))
 
 model.compile(
     optimizer=tf.keras.optimizers.RMSprop(0.001),

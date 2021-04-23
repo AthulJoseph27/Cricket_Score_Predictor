@@ -8,6 +8,18 @@ import json
 import sys
 import os
 
+
+# def custom_activation(x):
+#     x = K.cast(K.sum(x), dtype=K.floatx())
+#     # sess = tfc.InteractiveSession()
+#     # tfc.print(K.sigmoid(x) * 7)
+#     return (K.sigmoid(x) * 6)
+
+
+# get_custom_objects().update(
+#     {'custom_activation': Activation(custom_activation)})
+
+
 stadiums = [
     "Arun Jaitley Stadium",
     "Barabati Stadium",
@@ -210,15 +222,16 @@ runs = 0
 
 for i in range(36):
     new_score = model.predict(np.array([inp])).flatten()[0]
-    new_score = round(new_score)
-    if (new_score - runs) % 2 != 0 or ((i != 0) and (i % 6 == 0)):
+    print(new_score * 200)
+    if round(new_score * 200) % 2 != 0 or ((i != 0) and (i % 6 == 0)):
         batsman, non_striker = non_striker, batsman
 
+    runs = new_score
     bowler = all_bowlers[i % 6]
     inp = []
     inp = [0 for i in range(len(stadiums))]
     inp[stadiums.index("Wankhede Stadium")]
-    inp.append(new_score)
+    inp.append(runs)
     inp.append(batsman["Runs"])
     inp.append(batsman["Ave"])
     inp.append(batsman["SR"])
@@ -236,6 +249,5 @@ for i in range(36):
         else:
             inp[i] = float(inp[i])
     assert len(inp) == 55
-    runs = new_score
 
-print("Predicted Score is : " + str(round(runs)))
+print("Predicted Score is : " + str(round(runs * 200)))
