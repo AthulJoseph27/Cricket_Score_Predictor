@@ -1,0 +1,1543 @@
+{
+    "Batsmen": {
+        "Delhi Capitals": {
+            "S Dhawan": {
+                "Inns": "4",
+                "Runs": "231",
+                "Ave": "57.75",
+                "BF": "156",
+                "SR": "148.07",
+                "4s": "29",
+                "6s": "5"
+            },
+            "Lalit Yadav": {
+                "Inns": "3",
+                "Runs": "54",
+                "Ave": "54",
+                "BF": "55",
+                "SR": "98.18",
+                "4s": "6",
+                "6s": "0"
+            },
+            "RR Pant": {
+                "Inns": "4",
+                "Runs": "88",
+                "Ave": "29.33",
+                "BF": "68",
+                "SR": "129.41",
+                "4s": "12",
+                "6s": "1"
+            },
+            "PP Shaw": {
+                "Inns": "4",
+                "Runs": "113",
+                "Ave": "28.25",
+                "BF": "65",
+                "SR": "173.84",
+                "4s": "13",
+                "6s": "5"
+            },
+            "SPD Smith": {
+                "Inns": "2",
+                "Runs": "42",
+                "Ave": "21",
+                "BF": "41",
+                "SR": "102.43",
+                "4s": "4",
+                "6s": "0"
+            },
+            "TK Curran": {
+                "Inns": "1",
+                "Runs": "21",
+                "Ave": "21",
+                "BF": "16",
+                "SR": "131.25",
+                "4s": "2",
+                "6s": "0"
+            },
+            "MP Stoinis": {
+                "Inns": "3",
+                "Runs": "41",
+                "Ave": "20.5",
+                "BF": "27",
+                "SR": "151.85",
+                "4s": "6",
+                "6s": "1"
+            },
+            "AM Rahane": {
+                "Inns": "1",
+                "Runs": "8",
+                "Ave": "8",
+                "BF": "8",
+                "SR": "100",
+                "4s": "1",
+                "6s": "0"
+            },
+            "R Ashwin": {
+                "Inns": "1",
+                "Runs": "7",
+                "Ave": "7",
+                "BF": "4",
+                "SR": "175",
+                "4s": "1",
+                "6s": "0"
+            },
+            "CR Woakes": {
+                "Inns": "1",
+                "Runs": "15",
+                "Ave": "-",
+                "BF": "11",
+                "SR": "136.36",
+                "4s": "2",
+                "6s": "0"
+            },
+            "SO Hetmyer": {
+                "Inns": "2",
+                "Runs": "14",
+                "Ave": "-",
+                "BF": "9",
+                "SR": "155.55",
+                "4s": "2",
+                "6s": "0"
+            },
+            "K Rabada": {
+                "Inns": "1",
+                "Runs": "9",
+                "Ave": "-",
+                "BF": "4",
+                "SR": "225",
+                "4s": "1",
+                "6s": "0"
+            }
+        },
+        "Chennai Super Kings": {
+            "MM Ali": {
+                "Inns": "3",
+                "Runs": "108",
+                "Ave": "36",
+                "BF": "75",
+                "SR": "144",
+                "4s": "12",
+                "6s": "5"
+            },
+            "F du Plessis": {
+                "Inns": "3",
+                "Runs": "69",
+                "Ave": "34.5",
+                "BF": "53",
+                "SR": "130.18",
+                "4s": "7",
+                "6s": "3"
+            },
+            "RA Jadeja": {
+                "Inns": "2",
+                "Runs": "34",
+                "Ave": "34",
+                "BF": "24",
+                "SR": "141.66",
+                "4s": "4",
+                "6s": "0"
+            },
+            "SK Raina": {
+                "Inns": "3",
+                "Runs": "80",
+                "Ave": "26.66",
+                "BF": "60",
+                "SR": "133.33",
+                "4s": "5",
+                "6s": "5"
+            },
+            "SM Curran": {
+                "Inns": "3",
+                "Runs": "52",
+                "Ave": "26",
+                "BF": "25",
+                "SR": "208",
+                "4s": "5",
+                "6s": "3"
+            },
+            "AT Rayudu": {
+                "Inns": "3",
+                "Runs": "50",
+                "Ave": "16.66",
+                "BF": "34",
+                "SR": "147.05",
+                "4s": "1",
+                "6s": "5"
+            },
+            "MS Dhoni": {
+                "Inns": "2",
+                "Runs": "18",
+                "Ave": "9",
+                "BF": "19",
+                "SR": "94.73",
+                "4s": "2",
+                "6s": "0"
+            },
+            "RD Gaikwad": {
+                "Inns": "3",
+                "Runs": "20",
+                "Ave": "6.66",
+                "BF": "37",
+                "SR": "54.05",
+                "4s": "2",
+                "6s": "0"
+            },
+            "SN Thakur": {
+                "Inns": "1",
+                "Runs": "1",
+                "Ave": "1",
+                "BF": "1",
+                "SR": "100",
+                "4s": "0",
+                "6s": "0"
+            },
+            "DJ Bravo": {
+                "Inns": "1",
+                "Runs": "20",
+                "Ave": "-",
+                "BF": "8",
+                "SR": "250",
+                "4s": "2",
+                "6s": "1"
+            },
+            "DL Chahar": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "-",
+                "BF": "0",
+                "SR": "-",
+                "4s": "0",
+                "6s": "0"
+            }
+        },
+        "Rajasthan Royals": {
+            "SV Samson": {
+                "Inns": "3",
+                "Runs": "124",
+                "Ave": "41.33",
+                "BF": "71",
+                "SR": "174.64",
+                "4s": "13",
+                "6s": "7"
+            },
+            "CH Morris": {
+                "Inns": "3",
+                "Runs": "38",
+                "Ave": "38",
+                "BF": "24",
+                "SR": "158.33",
+                "4s": "0",
+                "6s": "4"
+            },
+            "JD Unadkat": {
+                "Inns": "2",
+                "Runs": "35",
+                "Ave": "35",
+                "BF": "24",
+                "SR": "145.83",
+                "4s": "2",
+                "6s": "2"
+            },
+            "DA Miller": {
+                "Inns": "2",
+                "Runs": "64",
+                "Ave": "32",
+                "BF": "48",
+                "SR": "133.33",
+                "4s": "7",
+                "6s": "2"
+            },
+            "JC Buttler": {
+                "Inns": "3",
+                "Runs": "76",
+                "Ave": "25.33",
+                "BF": "55",
+                "SR": "138.18",
+                "4s": "10",
+                "6s": "2"
+            },
+            "S Dube": {
+                "Inns": "3",
+                "Runs": "42",
+                "Ave": "14",
+                "BF": "42",
+                "SR": "100",
+                "4s": "5",
+                "6s": "0"
+            },
+            "R Tewatia": {
+                "Inns": "3",
+                "Runs": "41",
+                "Ave": "13.66",
+                "BF": "36",
+                "SR": "113.88",
+                "4s": "2",
+                "6s": "2"
+            },
+            "M Vohra": {
+                "Inns": "3",
+                "Runs": "35",
+                "Ave": "11.66",
+                "BF": "30",
+                "SR": "116.66",
+                "4s": "4",
+                "6s": "2"
+            },
+            "R Parag": {
+                "Inns": "3",
+                "Runs": "30",
+                "Ave": "10",
+                "BF": "23",
+                "SR": "130.43",
+                "4s": "1",
+                "6s": "3"
+            },
+            "BA Stokes": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "0",
+                "BF": "3",
+                "SR": "0",
+                "4s": "0",
+                "6s": "0"
+            },
+            "Mustafizur Rahman": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "-",
+                "BF": "4",
+                "SR": "0",
+                "4s": "0",
+                "6s": "0"
+            },
+            "C Sakariya": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "-",
+                "BF": "0",
+                "SR": "-",
+                "4s": "0",
+                "6s": "0"
+            }
+        },
+        "Kolkata Knight Riders": {
+            "N Rana": {
+                "Inns": "3",
+                "Runs": "155",
+                "Ave": "51.66",
+                "BF": "114",
+                "SR": "135.96",
+                "4s": "17",
+                "6s": "7"
+            },
+            "KD Karthik": {
+                "Inns": "3",
+                "Runs": "32",
+                "Ave": "32",
+                "BF": "25",
+                "SR": "128",
+                "4s": "2",
+                "6s": "1"
+            },
+            "RA Tripathi": {
+                "Inns": "3",
+                "Runs": "83",
+                "Ave": "27.66",
+                "BF": "54",
+                "SR": "153.7",
+                "4s": "10",
+                "6s": "2"
+            },
+            "Shubman Gill": {
+                "Inns": "3",
+                "Runs": "69",
+                "Ave": "23",
+                "BF": "46",
+                "SR": "150",
+                "4s": "8",
+                "6s": "4"
+            },
+            "AD Russell": {
+                "Inns": "3",
+                "Runs": "45",
+                "Ave": "15",
+                "BF": "40",
+                "SR": "112.5",
+                "4s": "5",
+                "6s": "2"
+            },
+            "EJG Morgan": {
+                "Inns": "3",
+                "Runs": "38",
+                "Ave": "12.66",
+                "BF": "33",
+                "SR": "115.15",
+                "4s": "2",
+                "6s": "2"
+            },
+            "Shakib Al Hasan": {
+                "Inns": "3",
+                "Runs": "38",
+                "Ave": "12.66",
+                "BF": "39",
+                "SR": "97.43",
+                "4s": "2",
+                "6s": "1"
+            },
+            "PJ Cummins": {
+                "Inns": "2",
+                "Runs": "6",
+                "Ave": "3",
+                "BF": "3",
+                "SR": "200",
+                "4s": "0",
+                "6s": "1"
+            },
+            "Harbhajan Singh": {
+                "Inns": "2",
+                "Runs": "4",
+                "Ave": "-",
+                "BF": "4",
+                "SR": "100",
+                "4s": "0",
+                "6s": "0"
+            },
+            "CV Varun": {
+                "Inns": "1",
+                "Runs": "2",
+                "Ave": "-",
+                "BF": "3",
+                "SR": "66.66",
+                "4s": "0",
+                "6s": "0"
+            }
+        },
+        "Royal Challengers Bangalore": {
+            "AB de Villiers": {
+                "Inns": "3",
+                "Runs": "125",
+                "Ave": "62.5",
+                "BF": "66",
+                "SR": "189.39",
+                "4s": "13",
+                "6s": "5"
+            },
+            "GJ Maxwell": {
+                "Inns": "3",
+                "Runs": "176",
+                "Ave": "58.66",
+                "BF": "118",
+                "SR": "149.15",
+                "4s": "17",
+                "6s": "8"
+            },
+            "V Kohli": {
+                "Inns": "3",
+                "Runs": "71",
+                "Ave": "23.66",
+                "BF": "64",
+                "SR": "110.93",
+                "4s": "9",
+                "6s": "0"
+            },
+            "D Padikkal": {
+                "Inns": "2",
+                "Runs": "36",
+                "Ave": "18",
+                "BF": "41",
+                "SR": "87.8",
+                "4s": "4",
+                "6s": "0"
+            },
+            "KA Jamieson": {
+                "Inns": "3",
+                "Runs": "27",
+                "Ave": "13.5",
+                "BF": "17",
+                "SR": "158.82",
+                "4s": "3",
+                "6s": "1"
+            },
+            "Washington Sundar": {
+                "Inns": "2",
+                "Runs": "18",
+                "Ave": "9",
+                "BF": "27",
+                "SR": "66.66",
+                "4s": "1",
+                "6s": "0"
+            },
+            "Shahbaz Ahmed": {
+                "Inns": "2",
+                "Runs": "15",
+                "Ave": "7.5",
+                "BF": "12",
+                "SR": "125",
+                "4s": "0",
+                "6s": "1"
+            },
+            "RM Patidar": {
+                "Inns": "2",
+                "Runs": "9",
+                "Ave": "4.5",
+                "BF": "10",
+                "SR": "90",
+                "4s": "1",
+                "6s": "0"
+            },
+            "DT Christian": {
+                "Inns": "2",
+                "Runs": "2",
+                "Ave": "1",
+                "BF": "5",
+                "SR": "40",
+                "4s": "0",
+                "6s": "0"
+            },
+            "HV Patel": {
+                "Inns": "2",
+                "Runs": "4",
+                "Ave": "-",
+                "BF": "3",
+                "SR": "133.33",
+                "4s": "0",
+                "6s": "0"
+            },
+            "Mohammed Siraj": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "-",
+                "BF": "1",
+                "SR": "0",
+                "4s": "0",
+                "6s": "0"
+            }
+        },
+        "Mumbai Indians": {
+            "CA Lynn": {
+                "Inns": "1",
+                "Runs": "49",
+                "Ave": "49",
+                "BF": "35",
+                "SR": "140",
+                "4s": "4",
+                "6s": "3"
+            },
+            "RG Sharma": {
+                "Inns": "4",
+                "Runs": "138",
+                "Ave": "34.5",
+                "BF": "102",
+                "SR": "135.29",
+                "4s": "9",
+                "6s": "7"
+            },
+            "SA Yadav": {
+                "Inns": "4",
+                "Runs": "121",
+                "Ave": "30.25",
+                "BF": "80",
+                "SR": "151.25",
+                "4s": "16",
+                "6s": "4"
+            },
+            "J Yadav": {
+                "Inns": "1",
+                "Runs": "23",
+                "Ave": "23",
+                "BF": "22",
+                "SR": "104.54",
+                "4s": "1",
+                "6s": "0"
+            },
+            "Ishan Kishan": {
+                "Inns": "4",
+                "Runs": "67",
+                "Ave": "16.75",
+                "BF": "71",
+                "SR": "94.36",
+                "4s": "3",
+                "6s": "2"
+            },
+            "KA Pollard": {
+                "Inns": "4",
+                "Runs": "49",
+                "Ave": "16.33",
+                "BF": "44",
+                "SR": "111.36",
+                "4s": "3",
+                "6s": "3"
+            },
+            "Q de Kock": {
+                "Inns": "3",
+                "Runs": "44",
+                "Ave": "14.66",
+                "BF": "49",
+                "SR": "89.79",
+                "4s": "5",
+                "6s": "0"
+            },
+            "HH Pandya": {
+                "Inns": "4",
+                "Runs": "35",
+                "Ave": "8.75",
+                "BF": "33",
+                "SR": "106.06",
+                "4s": "5",
+                "6s": "0"
+            },
+            "KH Pandya": {
+                "Inns": "4",
+                "Runs": "26",
+                "Ave": "8.66",
+                "BF": "24",
+                "SR": "108.33",
+                "4s": "4",
+                "6s": "0"
+            },
+            "RD Chahar": {
+                "Inns": "3",
+                "Runs": "14",
+                "Ave": "4.66",
+                "BF": "13",
+                "SR": "107.69",
+                "4s": "1",
+                "6s": "0"
+            },
+            "JJ Bumrah": {
+                "Inns": "3",
+                "Runs": "4",
+                "Ave": "4",
+                "BF": "6",
+                "SR": "66.66",
+                "4s": "0",
+                "6s": "0"
+            },
+            "M Jansen": {
+                "Inns": "2",
+                "Runs": "0",
+                "Ave": "0",
+                "BF": "3",
+                "SR": "0",
+                "4s": "0",
+                "6s": "0"
+            },
+            "TA Boult": {
+                "Inns": "2",
+                "Runs": "1",
+                "Ave": "-",
+                "BF": "1",
+                "SR": "100",
+                "4s": "0",
+                "6s": "0"
+            }
+        },
+        "Punjab Kings": {
+            "M Shahrukh Khan": {
+                "Inns": "3",
+                "Runs": "68",
+                "Ave": "68",
+                "BF": "45",
+                "SR": "151.11",
+                "4s": "7",
+                "6s": "3"
+            },
+            "KL Rahul": {
+                "Inns": "3",
+                "Runs": "157",
+                "Ave": "52.33",
+                "BF": "108",
+                "SR": "145.37",
+                "4s": "15",
+                "6s": "7"
+            },
+            "DJ Hooda": {
+                "Inns": "3",
+                "Runs": "96",
+                "Ave": "48",
+                "BF": "56",
+                "SR": "171.42",
+                "4s": "5",
+                "6s": "8"
+            },
+            "MA Agarwal": {
+                "Inns": "3",
+                "Runs": "83",
+                "Ave": "27.66",
+                "BF": "47",
+                "SR": "176.59",
+                "4s": "9",
+                "6s": "4"
+            },
+            "CH Gayle": {
+                "Inns": "3",
+                "Runs": "61",
+                "Ave": "20.33",
+                "BF": "47",
+                "SR": "129.78",
+                "4s": "6",
+                "6s": "3"
+            },
+            "JA Richardson": {
+                "Inns": "2",
+                "Runs": "15",
+                "Ave": "7.5",
+                "BF": "24",
+                "SR": "62.5",
+                "4s": "2",
+                "6s": "0"
+            },
+            "M Ashwin": {
+                "Inns": "1",
+                "Runs": "6",
+                "Ave": "6",
+                "BF": "14",
+                "SR": "42.85",
+                "4s": "0",
+                "6s": "0"
+            },
+            "N Pooran": {
+                "Inns": "3",
+                "Runs": "9",
+                "Ave": "3",
+                "BF": "11",
+                "SR": "81.81",
+                "4s": "1",
+                "6s": "0"
+            },
+            "Mohammed Shami": {
+                "Inns": "1",
+                "Runs": "9",
+                "Ave": "-",
+                "BF": "12",
+                "SR": "75",
+                "4s": "0",
+                "6s": "0"
+            },
+            "RP Meredith": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "-",
+                "BF": "0",
+                "SR": "-",
+                "4s": "0",
+                "6s": "0"
+            }
+        },
+        "Sunrisers Hyderabad": {
+            "MK Pandey": {
+                "Inns": "3",
+                "Runs": "101",
+                "Ave": "50.5",
+                "BF": "90",
+                "SR": "112.22",
+                "4s": "4",
+                "6s": "5"
+            },
+            "JM Bairstow": {
+                "Inns": "3",
+                "Runs": "110",
+                "Ave": "36.66",
+                "BF": "75",
+                "SR": "146.66",
+                "4s": "9",
+                "6s": "7"
+            },
+            "DA Warner": {
+                "Inns": "3",
+                "Runs": "93",
+                "Ave": "31",
+                "BF": "75",
+                "SR": "124",
+                "4s": "9",
+                "6s": "3"
+            },
+            "V Shankar": {
+                "Inns": "3",
+                "Runs": "42",
+                "Ave": "14",
+                "BF": "37",
+                "SR": "113.51",
+                "4s": "0",
+                "6s": "3"
+            },
+            "Mohammad Nabi": {
+                "Inns": "1",
+                "Runs": "14",
+                "Ave": "14",
+                "BF": "11",
+                "SR": "127.27",
+                "4s": "2",
+                "6s": "0"
+            },
+            "Abdul Samad": {
+                "Inns": "3",
+                "Runs": "26",
+                "Ave": "13",
+                "BF": "18",
+                "SR": "144.44",
+                "4s": "1",
+                "6s": "2"
+            },
+            "Virat Singh": {
+                "Inns": "1",
+                "Runs": "11",
+                "Ave": "11",
+                "BF": "12",
+                "SR": "91.66",
+                "4s": "1",
+                "6s": "0"
+            },
+            "Rashid Khan": {
+                "Inns": "2",
+                "Runs": "17",
+                "Ave": "8.5",
+                "BF": "10",
+                "SR": "170",
+                "4s": "1",
+                "6s": "1"
+            },
+            "WP Saha": {
+                "Inns": "2",
+                "Runs": "8",
+                "Ave": "4",
+                "BF": "15",
+                "SR": "53.33",
+                "4s": "0",
+                "6s": "1"
+            },
+            "JO Holder": {
+                "Inns": "1",
+                "Runs": "4",
+                "Ave": "4",
+                "BF": "5",
+                "SR": "80",
+                "4s": "0",
+                "6s": "0"
+            },
+            "B Kumar": {
+                "Inns": "2",
+                "Runs": "3",
+                "Ave": "3",
+                "BF": "4",
+                "SR": "75",
+                "4s": "0",
+                "6s": "0"
+            },
+            "Abhishek Sharma": {
+                "Inns": "1",
+                "Runs": "2",
+                "Ave": "2",
+                "BF": "4",
+                "SR": "50",
+                "4s": "0",
+                "6s": "0"
+            },
+            "KK Ahmed": {
+                "Inns": "1",
+                "Runs": "1",
+                "Ave": "1",
+                "BF": "2",
+                "SR": "50",
+                "4s": "0",
+                "6s": "0"
+            },
+            "S Nadeem": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "0",
+                "BF": "1",
+                "SR": "0",
+                "4s": "0",
+                "6s": "0"
+            },
+            "Mujeeb Ur Rahman": {
+                "Inns": "1",
+                "Runs": "1",
+                "Ave": "-",
+                "BF": "1",
+                "SR": "100",
+                "4s": "0",
+                "6s": "0"
+            },
+            "T Natarajan": {
+                "Inns": "1",
+                "Runs": "0",
+                "Ave": "-",
+                "BF": "0",
+                "SR": "-",
+                "4s": "0",
+                "6s": "0"
+            }
+        }
+    },
+    "Bowlers": {
+        "Kolkata Knight Riders": {
+            "PJ Cummins": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "88",
+                "Wkts": "4",
+                "Ave": "22",
+                "Econ": "7.33",
+                "SR": "18"
+            },
+            "Shakib Al Hasan": {
+                "Inns": "3",
+                "Overs": "10",
+                "Mdns": "0",
+                "Runs": "81",
+                "Wkts": "2",
+                "Ave": "40.5",
+                "Econ": "8.1",
+                "SR": "30"
+            },
+            "CV Varun": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "102",
+                "Wkts": "3",
+                "Ave": "34",
+                "Econ": "8.5",
+                "SR": "24"
+            },
+            "M Prasidh Krishna": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "108",
+                "Wkts": "4",
+                "Ave": "27",
+                "Econ": "9",
+                "SR": "18"
+            },
+            "Harbhajan Singh": {
+                "Inns": "3",
+                "Overs": "7",
+                "Mdns": "0",
+                "Runs": "63",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "9",
+                "SR": "-"
+            },
+            "AD Russell": {
+                "Inns": "3",
+                "Overs": "7",
+                "Mdns": "0",
+                "Runs": "85",
+                "Wkts": "6",
+                "Ave": "14.16",
+                "Econ": "12.14",
+                "SR": "7"
+            }
+        },
+        "Royal Challengers Bangalore": {
+            "HV Patel": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "69",
+                "Wkts": "9",
+                "Ave": "7.66",
+                "Econ": "5.75",
+                "SR": "8"
+            },
+            "Mohammed Siraj": {
+                "Inns": "3",
+                "Overs": "11",
+                "Mdns": "1",
+                "Runs": "64",
+                "Wkts": "2",
+                "Ave": "32",
+                "Econ": "5.81",
+                "SR": "33"
+            },
+            "Shahbaz Ahmed": {
+                "Inns": "2",
+                "Overs": "3",
+                "Mdns": "0",
+                "Runs": "21",
+                "Wkts": "3",
+                "Ave": "7",
+                "Econ": "7",
+                "SR": "6"
+            },
+            "Washington Sundar": {
+                "Inns": "3",
+                "Overs": "7",
+                "Mdns": "0",
+                "Runs": "54",
+                "Wkts": "2",
+                "Ave": "27",
+                "Econ": "7.71",
+                "SR": "21"
+            },
+            "YS Chahal": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "104",
+                "Wkts": "2",
+                "Ave": "52",
+                "Econ": "8.66",
+                "SR": "36"
+            },
+            "DT Christian": {
+                "Inns": "2",
+                "Overs": "3",
+                "Mdns": "0",
+                "Runs": "28",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "9.33",
+                "SR": "-"
+            },
+            "KA Jamieson": {
+                "Inns": "3",
+                "Overs": "10",
+                "Mdns": "0",
+                "Runs": "98",
+                "Wkts": "5",
+                "Ave": "19.6",
+                "Econ": "9.8",
+                "SR": "12"
+            },
+            "GJ Maxwell": {
+                "Inns": "1",
+                "Overs": "2",
+                "Mdns": "0",
+                "Runs": "24",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "12",
+                "SR": "-"
+            }
+        },
+        "Mumbai Indians": {
+            "JJ Bumrah": {
+                "Inns": "4",
+                "Overs": "16",
+                "Mdns": "0",
+                "Runs": "100",
+                "Wkts": "4",
+                "Ave": "25",
+                "Econ": "6.25",
+                "SR": "24"
+            },
+            "J Yadav": {
+                "Inns": "1",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "25",
+                "Wkts": "1",
+                "Ave": "25",
+                "Econ": "6.25",
+                "SR": "24"
+            },
+            "KH Pandya": {
+                "Inns": "4",
+                "Overs": "13",
+                "Mdns": "0",
+                "Runs": "85",
+                "Wkts": "3",
+                "Ave": "28.33",
+                "Econ": "6.53",
+                "SR": "26"
+            },
+            "TA Boult": {
+                "Inns": "4",
+                "Overs": "15.4",
+                "Mdns": "0",
+                "Runs": "114",
+                "Wkts": "6",
+                "Ave": "19",
+                "Econ": "7.27",
+                "SR": "15.6"
+            },
+            "RD Chahar": {
+                "Inns": "4",
+                "Overs": "16",
+                "Mdns": "0",
+                "Runs": "118",
+                "Wkts": "8",
+                "Ave": "14.75",
+                "Econ": "7.37",
+                "SR": "12"
+            },
+            "KA Pollard": {
+                "Inns": "3",
+                "Overs": "4.1",
+                "Mdns": "0",
+                "Runs": "31",
+                "Wkts": "1",
+                "Ave": "31",
+                "Econ": "7.44",
+                "SR": "25"
+            },
+            "M Jansen": {
+                "Inns": "2",
+                "Overs": "6",
+                "Mdns": "0",
+                "Runs": "45",
+                "Wkts": "2",
+                "Ave": "22.5",
+                "Econ": "7.5",
+                "SR": "18"
+            },
+            "RG Sharma": {
+                "Inns": "1",
+                "Overs": "1",
+                "Mdns": "0",
+                "Runs": "9",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "9",
+                "SR": "-"
+            },
+            "AF Milne": {
+                "Inns": "1",
+                "Overs": "3",
+                "Mdns": "0",
+                "Runs": "33",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "11",
+                "SR": "-"
+            }
+        },
+        "Sunrisers Hyderabad": {
+            "Abhishek Sharma": {
+                "Inns": "1",
+                "Overs": "1",
+                "Mdns": "0",
+                "Runs": "5",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "5",
+                "SR": "-"
+            },
+            "Rashid Khan": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "64",
+                "Wkts": "4",
+                "Ave": "16",
+                "Econ": "5.33",
+                "SR": "18"
+            },
+            "KK Ahmed": {
+                "Inns": "1",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "24",
+                "Wkts": "1",
+                "Ave": "24",
+                "Econ": "6",
+                "SR": "24"
+            },
+            "Mujeeb Ur Rahman": {
+                "Inns": "1",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "29",
+                "Wkts": "2",
+                "Ave": "14.5",
+                "Econ": "7.25",
+                "SR": "12"
+            },
+            "JO Holder": {
+                "Inns": "1",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "30",
+                "Wkts": "3",
+                "Ave": "10",
+                "Econ": "7.5",
+                "SR": "8"
+            },
+            "Mohammad Nabi": {
+                "Inns": "1",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "32",
+                "Wkts": "2",
+                "Ave": "16",
+                "Econ": "8",
+                "SR": "12"
+            },
+            "V Shankar": {
+                "Inns": "2",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "33",
+                "Wkts": "2",
+                "Ave": "16.5",
+                "Econ": "8.25",
+                "SR": "12"
+            },
+            "T Natarajan": {
+                "Inns": "2",
+                "Overs": "8",
+                "Mdns": "0",
+                "Runs": "69",
+                "Wkts": "2",
+                "Ave": "34.5",
+                "Econ": "8.62",
+                "SR": "24"
+            },
+            "S Nadeem": {
+                "Inns": "1",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "36",
+                "Wkts": "1",
+                "Ave": "36",
+                "Econ": "9",
+                "SR": "24"
+            },
+            "B Kumar": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "120",
+                "Wkts": "2",
+                "Ave": "60",
+                "Econ": "10",
+                "SR": "36"
+            },
+            "Sandeep Sharma": {
+                "Inns": "1",
+                "Overs": "3",
+                "Mdns": "0",
+                "Runs": "35",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "11.66",
+                "SR": "-"
+            }
+        },
+        "Punjab Kings": {
+            "Arshdeep Singh": {
+                "Inns": "3",
+                "Overs": "9",
+                "Mdns": "0",
+                "Runs": "64",
+                "Wkts": "5",
+                "Ave": "12.8",
+                "Econ": "7.11",
+                "SR": "10.8"
+            },
+            "Mohammed Shami": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "107",
+                "Wkts": "4",
+                "Ave": "26.75",
+                "Econ": "8.91",
+                "SR": "18"
+            },
+            "Jalaj S Saxena": {
+                "Inns": "1",
+                "Overs": "3",
+                "Mdns": "0",
+                "Runs": "27",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "9",
+                "SR": "-"
+            },
+            "DJ Hooda": {
+                "Inns": "1",
+                "Overs": "2",
+                "Mdns": "0",
+                "Runs": "18",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "9",
+                "SR": "-"
+            },
+            "RP Meredith": {
+                "Inns": "3",
+                "Overs": "10",
+                "Mdns": "0",
+                "Runs": "105",
+                "Wkts": "2",
+                "Ave": "52.5",
+                "Econ": "10.5",
+                "SR": "30"
+            },
+            "JA Richardson": {
+                "Inns": "3",
+                "Overs": "11",
+                "Mdns": "0",
+                "Runs": "117",
+                "Wkts": "3",
+                "Ave": "39",
+                "Econ": "10.63",
+                "SR": "22"
+            },
+            "M Ashwin": {
+                "Inns": "2",
+                "Overs": "7",
+                "Mdns": "0",
+                "Runs": "75",
+                "Wkts": "1",
+                "Ave": "75",
+                "Econ": "10.71",
+                "SR": "42"
+            }
+        },
+        "Delhi Capitals": {
+            "Lalit Yadav": {
+                "Inns": "2",
+                "Overs": "5",
+                "Mdns": "0",
+                "Runs": "28",
+                "Wkts": "1",
+                "Ave": "28",
+                "Econ": "5.6",
+                "SR": "30"
+            },
+            "A Mishra": {
+                "Inns": "2",
+                "Overs": "7",
+                "Mdns": "0",
+                "Runs": "51",
+                "Wkts": "4",
+                "Ave": "12.75",
+                "Econ": "7.28",
+                "SR": "10.5"
+            },
+            "Avesh Khan": {
+                "Inns": "4",
+                "Overs": "14",
+                "Mdns": "0",
+                "Runs": "103",
+                "Wkts": "8",
+                "Ave": "12.87",
+                "Econ": "7.35",
+                "SR": "10.5"
+            },
+            "CR Woakes": {
+                "Inns": "3",
+                "Overs": "11",
+                "Mdns": "0",
+                "Runs": "82",
+                "Wkts": "5",
+                "Ave": "16.4",
+                "Econ": "7.45",
+                "SR": "13.2"
+            },
+            "R Ashwin": {
+                "Inns": "4",
+                "Overs": "15",
+                "Mdns": "0",
+                "Runs": "120",
+                "Wkts": "1",
+                "Ave": "120",
+                "Econ": "8",
+                "SR": "90"
+            },
+            "K Rabada": {
+                "Inns": "3",
+                "Overs": "11",
+                "Mdns": "0",
+                "Runs": "98",
+                "Wkts": "4",
+                "Ave": "24.5",
+                "Econ": "8.9",
+                "SR": "16.5"
+            },
+            "TK Curran": {
+                "Inns": "2",
+                "Overs": "7.4",
+                "Mdns": "0",
+                "Runs": "75",
+                "Wkts": "1",
+                "Ave": "75",
+                "Econ": "9.78",
+                "SR": "46"
+            },
+            "MP Stoinis": {
+                "Inns": "3",
+                "Overs": "6",
+                "Mdns": "0",
+                "Runs": "61",
+                "Wkts": "1",
+                "Ave": "61",
+                "Econ": "10.16",
+                "SR": "36"
+            },
+            "LI Meriwala": {
+                "Inns": "1",
+                "Overs": "3",
+                "Mdns": "0",
+                "Runs": "32",
+                "Wkts": "1",
+                "Ave": "32",
+                "Econ": "10.66",
+                "SR": "18"
+            }
+        },
+        "Rajasthan Royals": {
+            "JD Unadkat": {
+                "Inns": "2",
+                "Overs": "8",
+                "Mdns": "0",
+                "Runs": "55",
+                "Wkts": "3",
+                "Ave": "18.33",
+                "Econ": "6.87",
+                "SR": "16"
+            },
+            "C Sakariya": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "100",
+                "Wkts": "6",
+                "Ave": "16.66",
+                "Econ": "8.33",
+                "SR": "12"
+            },
+            "R Tewatia": {
+                "Inns": "3",
+                "Overs": "8",
+                "Mdns": "0",
+                "Runs": "73",
+                "Wkts": "1",
+                "Ave": "73",
+                "Econ": "9.12",
+                "SR": "48"
+            },
+            "CH Morris": {
+                "Inns": "3",
+                "Overs": "11",
+                "Mdns": "0",
+                "Runs": "101",
+                "Wkts": "5",
+                "Ave": "20.2",
+                "Econ": "9.18",
+                "SR": "13.2"
+            },
+            "Mustafizur Rahman": {
+                "Inns": "3",
+                "Overs": "12",
+                "Mdns": "0",
+                "Runs": "111",
+                "Wkts": "3",
+                "Ave": "37",
+                "Econ": "9.25",
+                "SR": "24"
+            },
+            "R Parag": {
+                "Inns": "3",
+                "Overs": "4",
+                "Mdns": "0",
+                "Runs": "39",
+                "Wkts": "1",
+                "Ave": "39",
+                "Econ": "9.75",
+                "SR": "24"
+            },
+            "BA Stokes": {
+                "Inns": "1",
+                "Overs": "1",
+                "Mdns": "0",
+                "Runs": "12",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "12",
+                "SR": "-"
+            },
+            "S Gopal": {
+                "Inns": "1",
+                "Overs": "3",
+                "Mdns": "0",
+                "Runs": "40",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "13.33",
+                "SR": "-"
+            },
+            "S Dube": {
+                "Inns": "1",
+                "Overs": "1",
+                "Mdns": "0",
+                "Runs": "20",
+                "Wkts": "0",
+                "Ave": "-",
+                "Econ": "20",
+                "SR": "-"
+            }
+        },
+        "Chennai Super Kings": {
+            "RA Jadeja": {
+                "Inns": "3",
+                "Overs": "10",
+                "Mdns": "0",
+                "Runs": "63",
+                "Wkts": "2",
+                "Ave": "31.5",
+                "Econ": "6.3",
+                "SR": "30"
+            },
+            "MM Ali": {
+                "Inns": "3",
+                "Overs": "9",
+                "Mdns": "0",
+                "Runs": "57",
+                "Wkts": "4",
+                "Ave": "14.25",
+                "Econ": "6.33",
+                "SR": "13.5"
+            },
+            "SM Curran": {
+                "Inns": "3",
+                "Overs": "9",
+                "Mdns": "0",
+                "Runs": "60",
+                "Wkts": "3",
+                "Ave": "20",
+                "Econ": "6.66",
+                "SR": "18"
+            },
+            "DJ Bravo": {
+                "Inns": "3",
+                "Overs": "9",
+                "Mdns": "0",
+                "Runs": "66",
+                "Wkts": "3",
+                "Ave": "22",
+                "Econ": "7.33",
+                "SR": "18"
+            },
+            "DL Chahar": {
+                "Inns": "3",
+                "Overs": "11",
+                "Mdns": "1",
+                "Runs": "81",
+                "Wkts": "4",
+                "Ave": "20.25",
+                "Econ": "7.36",
+                "SR": "16.5"
+            },
+            "SN Thakur": {
+                "Inns": "3",
+                "Overs": "10.4",
+                "Mdns": "0",
+                "Runs": "108",
+                "Wkts": "3",
+                "Ave": "36",
+                "Econ": "10.12",
+                "SR": "21.3"
+            }
+        }
+    }
+}
