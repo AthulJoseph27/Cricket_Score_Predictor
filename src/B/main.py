@@ -2,6 +2,7 @@
 import tensorflow as tf
 from keras.models import Sequential, Input
 from keras.layers import Dense, Flatten, Dropout
+from sklearn import preprocessing
 import pandas as pd
 import numpy as np
 import random
@@ -167,6 +168,27 @@ temp = list(zip(X, Y))
 random.shuffle(temp)
 X, Y = zip(*temp)
 
+X = list(X)
+Y = list(Y)
+
+for i in range(len(X)):
+    X[i] = np.array(X[i])
+
+
+X = preprocessing.normalize(X)
+
+temp_X = []
+
+for i in range(len(X)):
+    temp_X.append(X[i].tolist())
+
+X = temp_X
+
+# print(type(X))
+# print(type(X[0].tolist()))
+
+# print(X[0])
+
 train_x = []
 train_y = []
 
@@ -190,12 +212,12 @@ epochs = 100
 model = Sequential()
 
 model.add(Input(shape=(13,)))
-model.add(Dense(64, activation="sigmoid"))
-model.add(Dense(32, activation="sigmoid"))
+model.add(Dense(64, activation="tanh"))
+model.add(Dense(32, activation="relu"))
 model.add(Dense(1))
 
 model.compile(
-    optimizer=tf.keras.optimizers.RMSprop(0.001),
+    optimizer=tf.keras.optimizers.RMSprop(0.0001),
     loss="mse",
     metrics=["mae", "mse"],
 )
