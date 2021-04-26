@@ -5,6 +5,7 @@ from keras.layers import Dense, Flatten, Dropout
 from keras import backend as K
 from keras.layers import Activation
 from keras.utils.generic_utils import get_custom_objects
+from sklearn import preprocessing
 import seaborn as sns
 import pandas as pd
 import numpy as np
@@ -158,7 +159,7 @@ with open("Matches.csv", encoding="utf-8") as csvf:
 
         for i in range(len(t)):
             if t[i] == "-" or t[i] == "_":
-                t[i] = 1e9
+                t[i] = 1000
             else:
                 t[i] = float(t[i])
         x.append(t[:])
@@ -169,7 +170,7 @@ with open("Matches.csv", encoding="utf-8") as csvf:
 
         outcome = float(outcome)
         runs = runs + float(outcome)
-        y.append(outcome/7)
+        y.append(outcome)
 
 if len(x) > 0:
     X.append(copy.deepcopy(x))
@@ -194,8 +195,6 @@ temp = list(zip(X, Y))
 random.shuffle(temp)
 X, Y = zip(*temp)
 
-test_x = []
-
 for i in X[:5]:
     test_x.extend(i[:])
 
@@ -208,15 +207,6 @@ for i in X[5:]:
 for i in Y[5:]:
     train_y.extend(i[:])
 
-# for i in train_y:
-#     print(i)
-
-# for i in train_x:
-#     print(i[43:])
-
-temp = list(zip(train_x, train_y))
-random.shuffle(temp)
-train_x, train_y = zip(*temp)
 
 # for i in range(len(train_x)):
 #     assert train_x[i][43] <= train_y[i]
