@@ -31,7 +31,7 @@ def getTestInput(filename):
 
     for i in names:
         try:
-            batsmen.append(players[batting_team][i])
+            batsmen.append(players['Batsmen'][batting_team][i])
         except Exception as e:
             pass
 
@@ -42,7 +42,7 @@ def getTestInput(filename):
                 "Runs": "100",
                 "Ave": "30",
                 "BF": "150",
-                "SR": "150",
+                "SR": "130",
                 "4s": "10",
                 "6s": "5"
             }
@@ -53,7 +53,7 @@ def getTestInput(filename):
 
     for i in names:
         try:
-            batsmen.append(players[bowling_team][i])
+            batsmen.append(players['Bowlers'][bowling_team][i])
         except Exception as e:
             pass
 
